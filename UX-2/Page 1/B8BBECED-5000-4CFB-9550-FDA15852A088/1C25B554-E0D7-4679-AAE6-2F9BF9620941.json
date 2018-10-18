@@ -9,8 +9,8 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
+            "blue": 1,
+            "green": 1,
             "red": 1
           },
           "MSAttributedStringFontAttribute": {
@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 12,
         "location": 0
       }
     ],
-    "string": "Type something"
+    "string": "hbbbbbbbbbbb"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,11 +52,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 28,
-    "width": 153,
-    "x": 130,
+    "width": 144,
+    "x": 134.5,
     "y": 92
   },
-  "glyphBounds": "{{0, 6}, {152, 20}}",
+  "glyphBounds": "{{1, 6}, {143, 16}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Type something",
+  "name": "hbbbbbbbbbbb",
   "nameIsFixed": false,
   "resizingConstraint": 47,
   "resizingType": 0,
@@ -82,8 +82,8 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
+          "blue": 1,
+          "green": 1,
           "red": 1
         },
         "MSAttributedStringFontAttribute": {
